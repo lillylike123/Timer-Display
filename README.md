@@ -1,4 +1,4 @@
-# Nightwing-light
+# Timer Display
 
 
 
@@ -11,7 +11,7 @@
 
 ## What It Does
 
-LED project where you can turn a knob and press a buttom. The button is so you can switch it off and on and the knob is so you can change the brightness
+This is a cute and simple timer made for my mom with love <3! It allows you to change the length of the timer as well as start and stop it.
 
 
 ## How It Works
