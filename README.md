@@ -1,17 +1,17 @@
-# Timer Display!!!
+# Timer Display
 
 
 
-![Timer Display!!!](screenshot.png)
+![Timer Display](screenshot.png)
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.1 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1 hours of work.
 
 
 
 ## What It Does
 
-Simple Timer Display! You can use a knob to change the length of the timer and press the button to stop/start. There is also an LED that blinks when the timer is active. I hope you enjoy this <333
+A cute simple timer display made by my mom! It has a knob to change the length, button to stop and start, plus an LED light to show activity
 
 
 ## How It Works
@@ -21,13 +21,17 @@ The circuit is captured in `breadboard-project.json`, and the firmware that runs
 
 ## How To Use It
 
-This is a simple timer display! You can turn the knob to change the timer's length, and you can press the button to start and stop the timer. Unfortunately, there is no pause button currently, :( but there is a buzzer that will notify you when the timer is done. Also, an LED will blink when the timber is being used.
+1. Set the length of your timer using the knob
+2. Turn on the timer using the button
+3. Wait for your timer to notify you when it's done!
+4. Stop by using the button as well 
+:) yay
 
 
 ## Demo
 
-- **Simulate it live:** [https://breadboard.hackclub.com/share/155](https://breadboard.hackclub.com/share/155), runs the firmware in the Breadboard simulator
-- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/155/](https://taniwankenobi.github.io/breadboard-plays/p/155/)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/178](https://breadboard.hackclub.com/share/178), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/178/](https://taniwankenobi.github.io/breadboard-plays/p/178/)
 
 
 ## Schematic
@@ -46,7 +50,7 @@ The editor snapshot is in `breadboard-project.json`.
 | led-blue | 1 |
 | potentiometer | 1 |
 | pushbutton | 1 |
-| resistor-220 | 1 |
+| resistor-220 | 2 |
 
 
 ## Firmware
@@ -63,7 +67,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 3.1h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1h of work*
 
 
 
