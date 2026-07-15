@@ -1,5 +1,8 @@
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
+
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
@@ -15,20 +18,22 @@ int durationMinutes;
 void setup() {
     lcd.init();
     lcd.backlight();
-    pinMode(LED_PIN, OUTPUT);
+    pinMode(LED_PIN, OUTPUT)
     pinMode(BUTTON_PIN, INPUT_PULLUP);
     pinMode(BUZZER_PIN, OUTPUT);
+
 }
+
 
 void loop() {
     if (!running) {
         durationMinutes = map(analogRead(POT_PIN), 0, 1023, 5, 60);
         lcd.setCursor(0, 0);
-        lcd.print("Vimali's Timer   ");
+        lcd.print("<3 Vimali's Timer   ");
         lcd.setCursor(0, 1);
         lcd.print("Set: ");
         lcd.print(durationMinutes);
-        lcd.print(" mins     ");
+        lcd.print(" mins     ")
 
         if (digitalRead(BUTTON_PIN) == LOW) {
             startTime = millis();
@@ -41,6 +46,7 @@ void loop() {
             running = false;
             lcd.clear();
             delay(500);
+      
             return;
         }
         
