@@ -5,7 +5,7 @@
 ![Timer Display!!!](screenshot.png)
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.1 hours of work.
 
 
 
@@ -63,7 +63,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 3h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3.1h of work*
 
 
 
