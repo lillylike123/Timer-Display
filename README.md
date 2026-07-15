@@ -1,17 +1,17 @@
-# Timer Display
+# Timer Display!!!
 
 
 
-![Nightwing-light](screenshot.png)
+![Timer Display!!!](screenshot.png)
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~2.9 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3 hours of work.
 
 
 
 ## What It Does
 
-This is a cute and simple timer made for my mom with love <3! It allows you to change the length of the timer as well as start and stop it.
+Simple Timer Display! You can use a knob to change the length of the timer and press the button to stop/start. There is also an LED that blinks when the timer is active. I hope you enjoy this <333
 
 
 ## How It Works
@@ -63,7 +63,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 2.9h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3h of work*
 
 
 
