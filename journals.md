@@ -1,4 +1,4 @@
-# Nightwing-light Build Journal
+# Timer Display!!! Build Journal
 
 ## Jul 14, 2026, 5:16 PM
 
@@ -21,3 +21,9 @@ I finally finished debugging and now everything in the schematic/design works fi
 ## Jul 14, 2026, 9:45 PM
 
 I finished adding some more features in the code and fixed some errors in the schematic/design. It looked like it would be a while to make sure I didn't have errors in my firmware, and I had to debug for a while. Thank you so much for the error feature!!!
+
+---
+
+## Jul 15, 2026, 3:05 PM
+
+Currently testing a debugging errors and making sure everything is okay. Can't submit cause breadboard's platform keeps crashing for me :( so Im just waiting until one of the orgs can help me with my issue!
